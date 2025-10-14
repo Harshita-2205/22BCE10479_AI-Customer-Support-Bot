@@ -48,7 +48,7 @@ stop
 
 *🏗 Project Structure*
 
-```mermaid
+```bash
 
 project_root/
 │
@@ -183,6 +183,7 @@ def route_query(user_input, confidence_score):
 *   *Streamlit for making data apps accessible*
 *   *SQLAlchemy for robust database ORM*
 *   *SentenceTransformers for semantic similarity matching*
+
 
 
 
