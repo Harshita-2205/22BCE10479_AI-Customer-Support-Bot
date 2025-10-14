@@ -1,0 +1,8 @@
+[
+    {
+        "session_id": "user_gemini_1",
+        "query": "Do you offer student discounts for first-time buyers?",
+        "confidence": 0.55,
+        "timestamp": "2025-10-13 18:42:06"
+    }
+]
